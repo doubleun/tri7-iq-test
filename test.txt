@@ -1,0 +1,10 @@
+1. 2
+Because of the symmetry
+2. 3
+Because the pattern matches as before
+3. 3
+Because the pattern matches as before
+4. 4
+Because the pattern matches as before
+5. 3
+Because the pattern matches as before
